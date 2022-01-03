@@ -1,0 +1,33 @@
+.nav {
+  display: flex;
+  width: 100%;
+  background-color: brown;
+  flex-wrap: wrap;
+}
+.nav_ul {
+  list-style: none;
+  margin: auto;
+}
+.nav_a {
+  text-decoration: none;
+  color: black;
+}
+.nav_li {
+  display: inline;
+  padding: 10px;
+  font: normal bold 120% Times New Roman;
+}
+.container {
+  display: flex;
+  align-content: center;
+}
+.left-box {
+  justify-content: flex-start;
+  background-color: brown;
+  width: 40%;
+}
+.right-box {
+  justify-content: flex-end;
+  background-color: wheat;
+}
+
