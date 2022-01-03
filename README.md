@@ -1,1 +1,1 @@
-rs
+https://miroslavatatarskaya.github.io/rsschool-cv/
